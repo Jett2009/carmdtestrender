@@ -1,0 +1,31 @@
+
+
+.form-group {
+    margin: 10px 15px;
+}
+
+.Mbutton {
+    margin: 10px 15px;
+    width: 90%;
+}
+
+.input-group-prepend input {
+    margin-bottom: 30px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+.mid {
+    margin-bottom: 30px;
+}
+
+.input-group-append button {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+
+.button {
+    width: 150px;
+}
+

@@ -1,0 +1,17 @@
+
+a.inactive {
+    color: white !important;
+}
+
+a.active {
+    color: lightslategray !important;
+}
+
+a.inactive:hover {
+    color: lightslategray !important;
+}
+
+a.active:hover {
+    color: white !important;
+}
+

@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.Marker {
+  width: 40px;
+}
+
+body {
+  background-color: skyblue;
+  background-size: cover;
+}
+
+.Errors div {
+  padding: 5px;
+}
